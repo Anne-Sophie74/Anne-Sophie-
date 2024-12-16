@@ -1,0 +1,35 @@
+/* selector {reglas} */
+body {
+  background-color: lightblue;
+}
+<h1> {
+  color: bisque;
+}
+p {
+  color: black;
+  font-family: 'Comic Sans MS';
+}
+
+p {
+  line-height:30px;
+}
+.contianer {
+ width: 720px;
+ margin: 25px;
+  backround color: #lightblue;
+  
+  .container.class.cover{
+  width: 10%;
+}
+  .lecture {
+    display: flex;
+    gap: 8px;
+    margen-bottom: 8px;
+  }
+  .lecture
+  width: 100px;
+}
+.lecture
+padding: 8px;
+border-radius: 8px;
+background-color: #orange;
